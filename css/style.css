@@ -1,0 +1,162 @@
+/*
+Author Name
+Autohr Info Here
+*/
+
+/* ======Index=======
+
+1.Home
+2.About
+3.Our Work
+4.Contact
+5.
+=====================
+*/
+
+
+/* Global CSS */
+
+body {
+	font-family: 'Roboto Slab', serif;
+
+}
+section{
+	padding: 25px;
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+.img-center {
+	display: block;
+	margin: 0 auto;
+}
+.HOME{
+	background: url(../img/icrowdme-PSD---cssauthor.gif)top center;
+	background-size: cover;
+	padding: 210px 0px;
+	text-align: center;
+	color: #fff;
+}
+.title{
+
+}
+.title h2{
+
+}
+.title p{
+
+font-size: 20px;
+}
+.title button{
+	
+color: #fff;
+	
+background: #99c50a;
+	
+border: none;
+	
+padding: 15px 20px;
+	
+border-radius: 10px;
+	
+margin-top: 15px;
+}
+.IT{
+
+text-align: center;
+
+padding: 75px 50px;
+}
+.title-two{
+
+}
+.title-two img{
+
+margin: 40px 0px;
+}
+.title-two h2{
+
+color: #999999;
+
+margin: 15px 0px;
+}
+.title-two p{
+	
+color: #919191;
+	
+font-size: 15px;
+}
+.DISCOVERPROJECT{
+
+}
+.title-three{
+
+}
+.img{
+
+}
+.title-three h2{
+
+}
+.title-three p{
+
+}
+.title-three button{
+background: #26a6d1;
+
+color: #fff;
+
+border: none;
+
+border-radius: 10px;
+
+padding: 8px 10px;
+
+font-size: 13px;
+}
+.title-four{
+
+}
+.title-four h2{
+
+}
+.title-four p{
+
+}
+.title-four button{
+
+background: #add136;
+
+color: #fff;
+
+border: none;
+
+border-radius: 10px;
+
+padding: 8px 10px;
+
+font-size: 13px;
+}
+.BLOG{
+
+}
+.title-five h2{
+
+}
+.title-five{
+
+}
+.title-five p{
+
+margin: 15px 0px;
+
+font-size: 13px;
+}
+.btn{
+	
+border: 1px solid #b6b6b6;
+	
+border-radius: 10px;
+}
