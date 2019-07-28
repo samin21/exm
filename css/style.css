@@ -1,21 +1,38 @@
 /*
-Author Name
-Autohr Info Here
+Author info Here
+
+Name : Samin Eyaser;
+Grade: A;
 */
 
-/* ======Index=======
+/*
+Index
 
-1.Home
-2.About
-3.Our Work
-4.Contact
-5.
-=====================
+1; home
+2; about us
+3; our servise
+4; Prices
+5; contact
 */
-
-
-/* Global CSS */
-
+/*Global Css*/
+img{
+	display: block;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+section {
+    padding: 50px 0;
+    text-align: center;
+}
+body{
+	text-align: center;
+}
+p{
+	font-family: 'Lato', sans-serif;
+	font-size: 10px;
+	color: #636363; 
+}
 body {
 	font-family: 'Roboto Slab', serif;
 
@@ -33,7 +50,7 @@ section{
 	margin: 0 auto;
 }
 .HOME{
-	background: url(../img/icrowdme-PSD---cssauthor.gif)top center;
+	background: url(../img/bg.png)top center;
 	background-size: cover;
 	padding: 210px 0px;
 	text-align: center;
@@ -48,6 +65,7 @@ section{
 .title p{
 
 font-size: 20px;
+color: #fff;
 }
 .title button{
 	
@@ -74,11 +92,11 @@ padding: 75px 50px;
 }
 .title-two img{
 
-margin: 40px 0px;
+margin: 40px auto;
 }
 .title-two h2{
 
-color: #999999;
+color: #686868;
 
 margin: 15px 0px;
 }
@@ -93,15 +111,25 @@ font-size: 15px;
 }
 .title-three{
 
+text-align: start;
+
+background: #e2f8ff;
+
+padding: 100px 0px;
 }
 .img{
 
 }
+.color{
+
+}
 .title-three h2{
 
+margin: -50px 0px 30px;
 }
 .title-three p{
 
+font-size: 12px;
 }
 .title-three button{
 background: #26a6d1;
@@ -117,13 +145,18 @@ padding: 8px 10px;
 font-size: 13px;
 }
 .title-four{
+text-align: start;
 
+background: #f5f9e9;
+
+padding: 100px 0px;
 }
 .title-four h2{
 
+margin: -50px 0px 30px;
 }
 .title-four p{
-
+font-size: 12px;
 }
 .title-four button{
 
@@ -139,11 +172,16 @@ padding: 8px 10px;
 
 font-size: 13px;
 }
+.color-two{
+	
+}
 .BLOG{
 
+text-align: start;
 }
 .title-five h2{
 
+color: #686868;
 }
 .title-five{
 
@@ -154,9 +192,80 @@ margin: 15px 0px;
 
 font-size: 13px;
 }
-.btn{
+.btnn{
 	
 border: 1px solid #b6b6b6;
 	
 border-radius: 10px;
+	
+margin: 25px 0px;
+}
+.find{
+
+background: #f9f9f9;
+
+border-radius: 30px;
+}
+.find img{
+
+position: relative;
+}
+.find button{
+
+border: none;
+
+border-radius: 8px;
+
+background: #26a6d1;
+
+color: #fff;
+
+font-size: 14px;
+
+padding: 5px 9px;
+
+position: absolute;
+
+top: 40%;
+
+right: 25px;
+}
+.find h4{
+
+font-size: 18px;
+
+margin-top: 5px;
+
+text-align: unset;
+}
+.find p{
+
+}
+.up{
+
+}
+.down{
+
+}
+.find span{
+
+border-bottom: 1px solid black;
+
+padding: 0px 130px;
+}
+.find h5{
+
+padding-left: 75px;
+
+margin: 10px 0px;
+}
+.fa.fa-caret-right{
+
+color: #add136;
+
+border: none;
+
+font-size: 25px;
+
+margin: 0px 10px;
 }
